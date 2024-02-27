@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Dashboard\Dashboard\bin\Debug\net8.0\Dashboards.exe
+C:\Users\HP\source\repos\Dashboard\Dashboard\bin\Debug\net8.0\Dashboards.deps.json
+C:\Users\HP\source\repos\Dashboard\Dashboard\bin\Debug\net8.0\Dashboards.runtimeconfig.json
+C:\Users\HP\source\repos\Dashboard\Dashboard\bin\Debug\net8.0\Dashboards.dll
+C:\Users\HP\source\repos\Dashboard\Dashboard\bin\Debug\net8.0\Dashboards.pdb
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\Dashboards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\Dashboards.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\Dashboards.AssemblyInfo.cs
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\Dashboards.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\Dashboards.dll
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\refint\Dashboards.dll
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\Dashboards.pdb
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\Dashboards.genruntimeconfig.cache
+C:\Users\HP\source\repos\Dashboard\Dashboard\obj\Debug\net8.0\ref\Dashboards.dll
